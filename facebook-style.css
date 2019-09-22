@@ -1,0 +1,147 @@
+@charset "UTF-8";
+html { box-sizing: border-box;}
+a {
+    text-decoration: none;
+}
+body { 
+  background-color: rgb(224, 231, 235);
+}
+#bk { font-family: Arial, Helvetica, sans-serif;
+     font-size: 55px;
+    position: absolute;
+    left: 130px;
+    top: 30px;
+}
+header { 
+       font-style: inherit;
+       background-color: rgb(104, 109, 160); 
+       color: ivory;
+       font-family:Verdana;
+       border-style: solid;
+       border-color: rgb(104, 109, 160) ;
+       height: 85px;
+    }
+       .p-1 {
+           position: absolute;
+           top: 10px;
+           left: 705px;
+       }
+       #ep {
+           position: absolute;
+           top: 5px;
+           left: 700px;
+       }
+       #pa {
+           position: absolute;
+           top: 10px;
+           left: 900px;
+       }
+       #wd {
+           position: absolute;
+           top: 5px;
+           left: 895px;
+       }
+       #fa {
+           position: absolute;
+           top: 68px;
+           left: 895px;
+           font-size: 11px;
+       }
+       #li {
+           position: absolute;
+           left: 1080px;
+           top: 5px;
+           color: blue;
+       }
+       header p { font-size: 56px;
+         padding: 0px;
+         width: 100em;
+         height: 20px;
+         margin: 5px;
+         }
+main { position: absolute;
+       bottom: 0%;
+       right: 15em;
+    }
+figure {
+    position: absolute;
+    left: 105px;
+    top: 185px;
+} 
+section {
+    position: absolute;
+    left: 155px;
+    top: 127px;
+    font:bold 20px/25px "time roman";
+    color: rgb(104, 109, 160);
+}   
+#ca {
+    font: bolder 40px/45px serif;
+    position: absolute;
+    left: 0px;
+    bottom: 400px;
+}
+#iq {
+    font-size: 18px;
+    bottom: 20px;
+} 
+#ame {
+    height: 25px;
+    width: 150px;
+    border-radius: 5px;
+}
+#urn {
+    height: 25px;
+    width: 150px;
+    border-radius: 5px;
+}
+#umb {
+    height: 25px;
+    width: 310px;
+    border-radius: 5px;
+}
+#ass {
+    height: 25px;
+    width: 310px;
+    border-radius: 5px;
+}
+#bi {
+    font-size: 15px;
+    color: gray;
+}
+#ge {
+    font-size: 15px;
+    color: gray;
+}
+#box {
+    border: 1px solid rgb(88, 105, 116);
+    position: absolute;
+    top: 430px;
+    left: 5px;
+    width: 150px;
+    height: 35px;
+    background: rgb(40, 172, 95) 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+}
+#kid {
+    position: absolute;
+    top: 435px;
+    left: 40px;
+    color: #ffffff;
+    font: bold 20px/25px serif;
+    
+}
+#page {
+    position: absolute;
+    top: 480px;
+    left: 10px;
+}
+footer {
+    position: absolute;
+    top: 770px;
+    border-color: white;
+    background-color: white;
+    height: 150px;
+    width: 1400px;
+    margin-left: 30px
+}
